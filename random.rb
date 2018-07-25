@@ -1,2 +1,2 @@
 sisters=["Nimet", "Banu", "Sevde"]
-puts sisters[0]="Kino"
+puts sisters.insert("best")
