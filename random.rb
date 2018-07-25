@@ -1,2 +1,2 @@
 sisters=["Nimet", "Banu", "Sevde"]
-puts sisters[1]
+puts sisters.size
