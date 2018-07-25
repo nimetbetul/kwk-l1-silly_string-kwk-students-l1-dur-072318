@@ -1,2 +1,2 @@
 sisters=["Nimet", "Banu", "Sevde"]
-puts sisters[2]="Kino"
+puts sisters[0]="Kino"
