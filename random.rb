@@ -1,2 +1,2 @@
 sisters=["Nimet", "Banu", "Sevde"]
-puts sisters.insert(1,'cute')
+puts sisters.insert(0,'cute')
